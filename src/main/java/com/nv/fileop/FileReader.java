@@ -11,6 +11,7 @@ public class FileReader {
 	
 	public static void main(String[] args) throws IOException {
 		fileOperations(inPath, outPath);
+		System.out.println("This is File reader");
 	}
 	
 	
