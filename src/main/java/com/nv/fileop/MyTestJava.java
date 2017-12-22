@@ -7,6 +7,7 @@ public class MyTestJava {
 	public static void main(String[] args) {
 		String[] arr = { "apple", "car", "door" };
 		getUniqueElements(arr);
+		System.out.println("Welcome to the test file");
 
 	}
 
